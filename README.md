@@ -2,5 +2,11 @@
 - For IT KMITL special lecture
     - เอกสารสำหรับการบรรยายพิเศษ
     - 28 เมษายน 2563
+    - 2getherTheSeriesTwitter.csv
+    - 2getherTheSeriesYouTube.csv
+    - Lab_TextAnalytics.ipynb
+    - WebScraping101.ipynb
 - For PIES Workshop on Web Scraping
     - 5 สิงหาคม 2566
+    - 2023_WebScraping_101.ipynb
+    - sample.html
